@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46693089/97379247-5aa53380-1892-11eb-9fb7-bcb6dd123291.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://media-exp1.licdn.com/dms/image/C5616AQH295P8stDLhQ/profile-displaybackgroundimage-shrink_350_1400/0/1605123818658?e=1617235200&v=beta&t=SxH9BhBB_YtN5ucpTee34iYJLeh-GVmMJ8vSIxfT48M" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Front-end Developer 💻 I am self-taught, I love programming and design.
