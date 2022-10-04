@@ -93,5 +93,5 @@
 ### News  
 My last course: [Vue 3 - Composition API - Udemy](https://www.udemy.com/course/vue-3-composition-api-vuex-api-rest-rick-and-morty/)
 
-Check my video tutorials: [carloscdev - Youtube](http://example/com)  
+Check my video tutorials: [carloscdev - Youtube](https://www.youtube.com/c/carloscdev)  
 
