@@ -1,65 +1,15 @@
-## 👋🏼 Hello World !!!  
+## 👋🏼 Hello World! I'm [Carlos Córdova](https://carlosc.dev)
+
+🔭 I’m currently work as a software developer at [Apside](https://apside.cl) and [Weeare](https://weeare.pe).
   
 
-🔭 I’m currently working as a front-end developer at [Apside](https://apside.cl)  
+🌱 I have some courses/tutorials on [Udemy](https://www.udemy.com/user/carloscdev/), [Youtube](https://www.youtube.com/c/carloscdev) and [Notion](https://carloscdev.notion.site/GO-Lang-fb31f6b1db8440c0ad219c965c8a9849).
   
 
-🌱 I’m currently learning backend technologies  
+❓ Ask me about topics related to web development. 
   
 
-❓ Ask me about anything related to front-end development  
-  
-
-⚡ Fun fact: I dance salsa and practice capoeira  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Design  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
+⚡ Fun fact: I like dancing, riding a bike and play video games.  
 
 
 ## Connect with me  
@@ -82,16 +32,12 @@
 </div>  
   
 
-<br/>  
 
-  
+## News
 
-<br/>  
+### My Courses: 
+- [Curso Práctico de Go](https://carloscdev.notion.site/GO-Lang-fb31f6b1db8440c0ad219c965c8a9849)
+- [Vue 3 - Composition API - Udemy](https://www.udemy.com/course/vue-3-composition-api-vuex-api-rest-rick-and-morty/)
 
-
-
-### News  
-My last course: [Vue 3 - Composition API - Udemy](https://www.udemy.com/course/vue-3-composition-api-vuex-api-rest-rick-and-morty/)
-
-Check my video tutorials: [carloscdev - Youtube](https://www.youtube.com/c/carloscdev)  
+### Check my video tutorials: [carloscdev - Youtube](https://www.youtube.com/c/carloscdev)  
 
