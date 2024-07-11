@@ -1,6 +1,6 @@
 ## 👋🏼 Hello World! I'm [Carlos Córdova](https://carlosc.dev)
 
-🔭 I’m currently work as a software developer at [Apside](https://apside.cl) and [Weeare](https://weeare.pe).
+🔭 I’m currently work as a software developer at [Apside](https://apside.cl).
   
 
 🌱 I have some courses/tutorials on [Udemy](https://www.udemy.com/user/carloscdev/), [Youtube](https://www.youtube.com/c/carloscdev) and [Notion](https://carloscdev.notion.site/GO-Lang-fb31f6b1db8440c0ad219c965c8a9849).
